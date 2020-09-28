@@ -89,3 +89,8 @@ p {
 #footer {
   text-align: center;
 }
+
+.ml-photo {
+  width: 25%;
+  height: 25%;
+}
