@@ -20,12 +20,9 @@ function About(props) {
           <p>
               Church-key before they sold out 8-bit knausgaard forage. Woke hoodie pour-over leggings vinyl etsy fingerstache gluten-free air plant subway tile. Vexillologist master cleanse four dollar toast 90's cronut brunch tumblr fam yr franzen microdosing etsy. Copper mug scenester adaptogen, iPhone tousled freegan chicharrones lo-fi etsy keytar taxidermy.
           </p>
-          <p>
-              Cloud bread tumblr raclette stumptown kickstarter bespoke bicycle rights butcher meggings edison bulb tacos 8-bit cardigan thundercats pinterest. PBR&B hell of butcher, literally selvage austin flexitarian schlitz letterpress +1 brunch swag 90's poutine XOXO. Prism poutine sriracha farm-to-table 8-bit gochujang fam ugh literally shaman. Copper mug viral tbh, echo park banh mi semiotics synth wayfarers kinfolk beard hexagon irony readymade narwhal woke. Keytar coloring book blog street art. Man braid normcore banjo, food truck messenger bag shabby chic helvetica ethical. Vegan you probably haven't heard of them tumeric gastropub lyft vinyl next level cray hashtag keffiyeh waistcoat vaporware fingerstache glossier.
-        </p>
         <p>
               View full <a href="#/resume" class="link">resume</a>
-      </p>
+        </p>
         </div>  
         </div>
       </section>
