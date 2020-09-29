@@ -12,5 +12,26 @@
     "image": "https://raw.githubusercontent.com/geocode-matt/Weather-Dashboard/master/assets/images/screenshot.png",
     "github": "https://github.com/geocode-matt/Weather-Dashboard",
     "topics": "JavaScript, jQuery, HTML, CSS, Bootstrap, Moment, API"
+    },
+    {
+    "id": 3,
+    "name": "tech blog",
+    "image": "https://raw.githubusercontent.com/geocode-matt/Tech-Blog/master/screenshot.png",
+    "github": "https://github.com/geocode-matt/Tech-Blog",
+    "topics": "JavaScript, HTML, CSS, Express, Sequelize, Handlebars.js, mySQL, dotenv"
+    },
+    {
+    "id": 4,
+    "name": "random password generator",
+    "image": "https://raw.githubusercontent.com/geocode-matt/password-generator/master/assets/images/screenshot.png",
+    "github": "https://github.com/geocode-matt/password-generator",
+    "topics": "JavaScript, HTML, CSS"
+    },
+    {
+    "id": 5,
+    "name": "random password generator",
+    "image": "https://raw.githubusercontent.com/geocode-matt/password-generator/master/assets/images/screenshot.png",
+    "github": "https://github.com/geocode-matt/password-generator",
+    "topics": "JavaScript, HTML, CSS"
     }
 ]
