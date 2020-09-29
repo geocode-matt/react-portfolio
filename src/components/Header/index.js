@@ -16,11 +16,7 @@ function Header(props) {
                 <div className="name-container col-lg-4">
                 <a href="https://github.com/geocode-matt"><img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank" className="icon"/></a>
                 <a href="https://www.linkedin.com/in/mlinden88/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank" className="icon"/></a>
-                <a className="navbar-brand header-name" href="./index.html">matt linden</a>
-                </div>
-
-                <div className="nav-container col-lg-4">
-                    <a className="navbar-brand header-links" href="#about"><span
+                <a className="navbar-brand header-links header-name" href="#about"><span
                 onClick={() => {
                   setAboutSelected(true);
                   setContactSelected(false);
@@ -29,8 +25,11 @@ function Header(props) {
                 console.log("about selected");
                 }}
               >
-                about
+                matt linden
               </span></a>
+                </div>
+
+                <div className="nav-container col-lg-4">
                     <a className="navbar-brand header-links" href="#portfolio"><span
                 onClick={() => {
                   setAboutSelected(false);
@@ -40,7 +39,7 @@ function Header(props) {
                 console.log("portfolio selected");
                 }}
               >
-                portfolio
+                projects
               </span></a>
                     <a className="navbar-brand header-links" href="#contact"><span
                 onClick={() => {
