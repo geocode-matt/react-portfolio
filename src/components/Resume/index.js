@@ -25,21 +25,21 @@ function Resume(props) {
         <i className="devicon-css3-plain-wordmark colored"></i>
         <i className="devicon-bootstrap-plain-wordmark colored"></i>
         <i className="devicon-foundation-plain-wordmark colored"></i>
-        <i class="devicon-visualstudio-plain colored"></i>
+        <i className="devicon-visualstudio-plain colored"></i>
         <i className="devicon-git-plain colored"></i>
         <i className="devicon-github-plain-wordmark colored"></i>
         <i className="devicon-jquery-plain-wordmark colored"></i>
-        <i class="devicon-handlebars-plain-wordmark colored"></i>
+        <i className="devicon-handlebars-plain-wordmark colored"></i>
         <i className="devicon-mysql-plain-wordmark colored"></i>
         <i className="devicon-npm-original-wordmark colored"></i>
-        <i class="devicon-sequelize-plain colored"></i>
-        <i class="devicon-express-original colored"></i>
-        <i class="devicon-heroku-original-wordmark colored"></i>
-        <i class="devicon-nodejs-plain colored"></i>
+        <i className="devicon-sequelize-plain colored"></i>
+        <i className="devicon-express-original colored"></i>
+        <i className="devicon-heroku-original-wordmark colored"></i>
+        <i className="devicon-nodejs-plain colored"></i>
         <i className="devicon-mongodb-plain-wordmark colored"></i>
         <i className="devicon-react-original-wordmark colored"></i>
-        <i class="devicon-angularjs-plain colored"></i>
-        <i class="devicon-wordpress-plain-wordmark colored"></i>
+        <i className="devicon-angularjs-plain colored"></i>
+        <i className="devicon-wordpress-plain-wordmark colored"></i>
       </div>
         </div>
         </div>

@@ -16,7 +16,7 @@ function Header(props) {
                 <div className="name-container col-lg-4">
                 <a href="https://github.com/geocode-matt"><img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank" className="icon"/></a>
                 <a href="https://www.linkedin.com/in/mlinden88/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank" className="icon"/></a>
-                <a href="https://stackoverflow.com/users/14369920/matt-linden"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" class="icon"/></a>
+                <a href="https://stackoverflow.com/users/14369920/matt-linden"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" className="icon"/></a>
                 <a className="navbar-brand header-links header-name" href="#about"><span
                 onClick={() => {
                   setAboutSelected(true);
