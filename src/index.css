@@ -19,7 +19,13 @@ main {
 
 * {
   box-sizing: border-box;
-  background: #645853;
+  background: #e6e6e6;
+  /* background: #7896b6; */
+  /* background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('file:///Volumes/Animus/Jon/Dropbox/website/hellcity.jpg'); */
+  /* -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size: cover;
+  background-size: cover; */
 }
 
 html,
@@ -34,18 +40,18 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
-  color: var(--light);
+  /* background: var(--dark);
+  color: var(--light); */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: 900;
 }
 
 a {
-  color: #e0e7eb !important;
+  color: #22273d !important;
 }
 
 p {
-  color: #e0e7eb !important;
+  color: #22273d !important;
 }
 
 #header-container {
@@ -101,17 +107,29 @@ p {
   border-radius: 50%;
 }
 
+.tile-wrapper {
+  text-decoration: none;
+}
+
+.tile-wrapper:hover {
+  text-decoration: none;
+  transition: 0.1s;
+  transform: scale(1.03);
+}
+
 .project-tile {
   margin: 10px 10px 10px 10px !important;
   border-width: 1px;
   border-radius: 3px;
-  height: 300px;
+  height: 325px;
   width: 400px;
   flex-shrink: 0;
-  box-shadow: 1px 1px 1px 1px black;
-  background-color: rgb(75, 75, 75);
+  /* box-shadow: 1px 1px 1px 1px black; */
+  background-color: rgb(165, 165, 165);
   justify-content: center;
   text-align: center;
+  text-decoration: none;
+  align-content: space-between;
 }
 
 .projects-section {
@@ -122,26 +140,49 @@ p {
 }
 
 .project-img-container {
-  width: 100%;
+  /* width: 100%; */
+  width: 350px;
+  height: 220px;
+  background-color: transparent;
+  display: inline-flex;
+  margin: 0 0 0 0 !important;
+  justify-content: center;
+  text-decoration: none;
 }
 
 .project-img {
-  max-height: 100%;
+  /* max-height: 100%; */
   max-width: 100%;
   border: none;
   border-radius: 3px;
+  text-decoration: none;
 }
 
 .project-name {
   background-color: transparent;
-  color: #e0e7eb;
+  color: #22273d;
   margin: 0 0 0 0;
   padding: 5px 5px 5px 5px;
+  text-decoration: none;
 }
 
 .project-topics {
+  text-decoration: none;
   background-color: transparent;
-  color: #e0e7eb;
+  color: #22273d;
   margin: 0 0 0 0;
   padding: 5px 5px 5px 5px;
+  font-size: .5rem;
+  text-decoration: none;
+}
+
+.project-blurb {
+  text-decoration: none;
+  font-style: italic;
+  background-color: transparent;
+  color: #22273d;
+  margin: 0 0 0 0;
+  padding: 5px 5px 5px 5px;
+  font-size: .8rem;
+  text-decoration: none;
 }

@@ -8,7 +8,7 @@ function About(props) {
         <div className="row justify-content-center">
           <div className="col-10" id="about-section">
               <div className="ml-photo-container">
-                <img class="mb-5 ml-photo" src="https://raw.githubusercontent.com/geocode-matt/react-portfolio/master/src/assets/images/IMG_1909.jpg" alt="Matt Linden"/>
+                <img className="mb-5 ml-photo" src="https://raw.githubusercontent.com/geocode-matt/react-portfolio/master/src/assets/images/IMG_1909.jpg" alt="Matt Linden"/>
               </div>
           <p>
               I'm baby enamel pin subway tile 90's green juice iPhone you probably haven't heard of them skateboard plaid chillwave pickled kickstarter mixtape. Fanny pack four dollar toast celiac vape. Poutine jianbing pour-over, pickled next level yr gentrify helvetica gluten-free occupy tattooed 3 wolf moon schlitz locavore wolf. Food truck vice pok pok forage vinyl master cleanse pug chartreuse asymmetrical. IPhone four dollar toast four loko +1, before they sold out pok pok yr cray post-ironic pitchfork tacos schlitz aesthetic literally.
@@ -23,7 +23,7 @@ function About(props) {
               Church-key before they sold out 8-bit knausgaard forage. Woke hoodie pour-over leggings vinyl etsy fingerstache gluten-free air plant subway tile. Vexillologist master cleanse four dollar toast 90's cronut brunch tumblr fam yr franzen microdosing etsy. Copper mug scenester adaptogen, iPhone tousled freegan chicharrones lo-fi etsy keytar taxidermy.
           </p>
         <p>
-              View full <a href="#/resume" class="link">resume</a>
+              View full <a href="#/resume" className="link">resume</a>
         </p>
         </div>  
         </div>
