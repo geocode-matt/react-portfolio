@@ -40,9 +40,6 @@ function Contact(props) {
       
       <div className="row justify-content-center">
         <div className="col-10" id="contact-section">
-            <div className="ml-photo-container">
-              <img className="ml-photo" src="https://raw.githubusercontent.com/geocode-matt/react-portfolio/master/src/assets/images/IMG_1909.jpg" alt="Matt Linden"/>
-            </div>
             <div className="text-block">
                 Questions or business inquiries? <br></br>Use the form or contact me via
                 <a href="mailto:mlindenx@gmail.com" className="contact-text"> email</a> or
