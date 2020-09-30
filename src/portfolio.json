@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "random password generator",
-    "image": "https://raw.githubusercontent.com/geocode-matt/password-generator/master/assets/images/screenshot.png",
+    "image": "./assets/images/password-generatorv2.png",
     "github": "https://github.com/geocode-matt/password-generator",
     "topics": "JavaScript, HTML, CSS"
     },
