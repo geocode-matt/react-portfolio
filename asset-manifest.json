@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.1defaf76.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.043d7709.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.043d7709.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.90a5d763.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.d5162906.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.d5162906.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/react-portfolio/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.976953c9.chunk.js": "/react-portfolio/static/js/2.976953c9.chunk.js",
     "static/js/2.976953c9.chunk.js.map": "/react-portfolio/static/js/2.976953c9.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.647bb34747ee7f8a9b005e29b77d0bbb.js": "/react-portfolio/precache-manifest.647bb34747ee7f8a9b005e29b77d0bbb.js",
+    "precache-manifest.9d9d7abd50f0d9ff6a5b1a3ccbc05363.js": "/react-portfolio/precache-manifest.9d9d7abd50f0d9ff6a5b1a3ccbc05363.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/react-portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.1defaf76.chunk.css.map": "/react-portfolio/static/css/main.1defaf76.chunk.css.map",
+    "static/css/main.90a5d763.chunk.css.map": "/react-portfolio/static/css/main.90a5d763.chunk.css.map",
     "static/js/2.976953c9.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.976953c9.chunk.js.LICENSE.txt",
     "static/media/barkeep.jpg": "/react-portfolio/static/media/barkeep.4afb08ad.jpg",
+    "static/media/index.css": "/react-portfolio/static/media/bg7.e78e523c.jpg",
     "static/media/gameplan-realty-team.jpg": "/react-portfolio/static/media/gameplan-realty-team.0b5172ae.jpg",
     "static/media/password-generatorv2.jpg": "/react-portfolio/static/media/password-generatorv2.10683c9c.jpg",
     "static/media/password-generatorv2.png": "/react-portfolio/static/media/password-generatorv2.40a8991e.png",
@@ -29,7 +30,7 @@
     "static/js/runtime-main.213b1880.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.976953c9.chunk.js",
-    "static/css/main.1defaf76.chunk.css",
-    "static/js/main.043d7709.chunk.js"
+    "static/css/main.90a5d763.chunk.css",
+    "static/js/main.d5162906.chunk.js"
   ]
 }
