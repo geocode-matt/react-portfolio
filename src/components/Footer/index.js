@@ -8,7 +8,7 @@ function Footer(props) {
                 <a href="https://www.linkedin.com/in/mlinden88/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Repository" className="icon"/></a>
                 <a href="https://stackoverflow.com/users/14369920/matt-linden" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" className="icon"/></a>
                 <p>
-                &copy; matt linden  |  <a href="mailto:mlindenx@gmail.com" className="link">email me</a>  |  <a href="tel:817-575-9370" className="link">call me</a>  |  <a href="" className="link">download resume</a>
+                &copy; matt linden  |  <a href="mailto:mlindenx@gmail.com" className="link">email me</a>  |  <a href="tel:817-575-9370" className="link">call me</a>  |  <a href="https://github.com/geocode-matt/react-portfolio/raw/master/src/assets/images/Linden_Resume.pdf" className="link">download resume</a>
                 </p>
             </div>
     )

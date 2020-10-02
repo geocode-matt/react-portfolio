@@ -10,11 +10,15 @@ function Resume(props) {
               <div className="text-block">
               <div className="">
               Geoscientist and full stack Web Developer with over ten years of experience working as a geoscientist in the oil and gas industry. For more information please call or email me or check out my LinkedIn profile:  
+                <br></br><br></br>
+                <a href="https://github.com/geocode-matt/react-portfolio/raw/master/src/assets/images/Linden_Resume.pdf" className="link"><span className="resume-span">download resume</span></a>
+                <br></br><br></br>
                 <p className="linkedin-icon">
                 <a href="https://www.linkedin.com/in/mlinden88/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Linden LinkedIn"/></a>
                 </p>
             </div>
               </div>
+              <br></br><br></br>
             <div className="text-block">
               Proficient with these languages and technologies:
             </div>

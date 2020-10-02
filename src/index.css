@@ -1,6 +1,6 @@
 main {
 	margin: 0 auto;
-  max-width: 90%;
+  max-width: 100%;
   /* padding: 50px 30px; */
 }
 :root {
@@ -14,18 +14,13 @@ main {
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 * {
   box-sizing: border-box;
-  background: #e6e6e6;
-  /* background: #7896b6; */
-  /* background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('file:///Volumes/Animus/Jon/Dropbox/website/hellcity.jpg'); */
-  /* -webkit-background-size: cover;
-  -moz-background-size:  cover;
-  -o-background-size: cover;
-  background-size: cover; */
+  /* background: #e6e6e6; */
+  font-family: 'Montserrat', sans-serif;
 }
 
 html,
@@ -40,18 +35,23 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
+  background-image: url('./assets/images/bg7.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   /* background: var(--dark);
   color: var(--light); */
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-weight: 900;
 }
 
 a {
-  color: #22273d !important;
+  /* color: #22273d !important; */
+  /* color: rgb(255, 166, 0) !important; */
+  color: rgb(255, 196, 0) !important;
 }
 
 p {
-  color: #22273d !important;
+  /* color: #22273d !important; */
+  /* color: rgba(255, 255, 255, 0.8) !important; */
+  color: rgb(212, 212, 212) !important;
 }
 
 i {
@@ -105,6 +105,7 @@ i {
 
 .ml-photo-container {
   text-align: center;
+  margin: 0 auto 20px auto;
 }
 
 .first-page-content {
@@ -113,10 +114,18 @@ i {
 
 .ml-photo {
   object-fit: cover;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
-  margin: 10px 0 20px 0 !important;
+  /* margin: 10px 0 20px 0 !important; */
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.text-title {
+  font-size: 22px !important;
 }
 
 .tile-wrapper {
@@ -129,6 +138,12 @@ i {
   transform: scale(1.03);
 }
 
+.projects {
+  max-width: 90%;
+  position: relative;
+  margin: 0 auto 0 auto;
+}
+
 .project-tile {
   margin: 10px 10px 10px 10px !important;
   border-width: 1px;
@@ -137,7 +152,7 @@ i {
   width: 400px;
   flex-shrink: 0;
   /* box-shadow: 1px 1px 1px 1px black; */
-  background-color: rgb(165, 165, 165);
+  background-color: rgb(0, 0, 0, .4);
   justify-content: center;
   text-align: center;
   text-decoration: none;
@@ -173,16 +188,17 @@ i {
 
 .project-name {
   background-color: transparent;
-  color: #22273d;
+  color: rgb(212, 212, 212) !important;
   margin: 0 0 0 0;
   padding: 5px 5px 5px 5px;
   text-decoration: none;
+  font-size: 18px;
 }
 
 .project-topics {
   text-decoration: none;
   background-color: transparent;
-  color: #22273d;
+  color: rgb(212, 212, 212) !important;
   margin: 0 0 0 0;
   padding: 5px 5px 5px 5px;
   font-size: .5rem;
@@ -193,7 +209,7 @@ i {
   text-decoration: none;
   font-style: italic;
   background-color: transparent;
-  color: #22273d;
+  color: rgb(212, 212, 212) !important;
   margin: 0 0 0 0;
   padding: 5px 5px 5px 5px;
   font-size: .8rem;
@@ -215,20 +231,16 @@ i {
 .text-block {
   text-align: center;
   padding: 10px 10px 10px 10px;
+  color: rgb(212, 212, 212) !important;
 }
 
 .contact-text {
   font-weight: bold;
-  text-decoration: none;
-}
-
-.contact-text:hover {
-  text-decoration: none;
 }
 
 .btn {
   background-color: #22273d !important;
-  color: white !important;
+  color:rgb(255, 196, 0) !important;
   margin: 0 0 0 0 !important;
 }
 
@@ -250,11 +262,30 @@ i {
   line-height: 3rem;
   max-width: 100%;
   max-height: 100%;
-  margin: 0 0 0 0 !important;
-  padding: 20px 20px 20px 20px;
+  margin: 0 auto 0 auto !important;
+  padding: 20px 50px 20px 50px;
   text-align: center;
 }
 
 .linkedin-icon {
   margin: 10px 10px 10px 10px;
+}
+
+.resume-span {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.about {
+  margin: 0 auto 0 auto;
+  max-width: 85%;
+}
+
+.about-writeup {
+  max-width: 100%;
+  padding: 20px 0 30px 0;
+}
+
+.about-writeup p {
+  font-size: 16px;
 }

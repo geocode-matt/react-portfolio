@@ -41,9 +41,9 @@ function Contact(props) {
       <div className="row justify-content-center">
         <div className="col-10" id="contact-section">
             <div className="text-block">
-                Questions or business inquiries? <br></br>Use the form or contact me via
-                <a href="mailto:mlindenx@gmail.com" className="contact-text"> email</a> or
-                <a href="tel:817-575-9370" className="contact-text"> phone</a>.
+                Questions or business inquiries? <br></br>Use the form or contact me via 
+                <a href="mailto:mlindenx@gmail.com" className="contact-text"> email </a> or 
+                <a href="tel:817-575-9370" className="contact-text"> phone </a>.
             </div>
             <div id="form-container">
         <form className="justify-content-center" id="contact-form">
