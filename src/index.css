@@ -290,3 +290,11 @@ i {
 .about-writeup p {
   font-size: 16px;
 }
+
+.white {
+  color: white !important;
+}
+
+.blue {
+  color: rgb(0, 204, 255) !important;
+}
