@@ -19,7 +19,7 @@
   
   ## Description
   This is my project portfolio page built in React.js
-    <img src="./src/assets/images/screenshot.png">
+    <img src="./src/assets/images/screenshot2.png">
 
   ## Installation Instructions
   Download the application from the GitHub repository here: https://github.com/geocode-matt/react-portfolio.
