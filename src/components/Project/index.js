@@ -1,7 +1,5 @@
 import React from 'react'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import passwordGenerator from '../../assets/images/password-generatorv2.png';
-import weatherDashboard from '../../assets/images/weather-dashboardv2.png';
 
 // Individual Card build-out using props
 function ProjectCards(props) {
